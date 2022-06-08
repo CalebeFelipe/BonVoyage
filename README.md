@@ -30,7 +30,7 @@
 
 ## ⚙️ Etapas
 
-- [ ] Header
+- [x] Header
 - [ ] Home
 - [ ] Books
 - [ ] Pacotes
