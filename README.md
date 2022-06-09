@@ -31,7 +31,7 @@
 ## ⚙️ Etapas
 
 - [x] Header
-- [ ] Home
+- [x] Home
 - [ ] Books
 - [ ] Pacotes
 - [ ] Serviços
