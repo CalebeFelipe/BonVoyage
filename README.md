@@ -33,7 +33,7 @@
 - [x] Header
 - [x] Home
 - [x] Books
-- [ ] Pacotes
+- [x] Pacotes
 - [ ] Serviços
 - [ ] Gallery
 - [ ] Review
