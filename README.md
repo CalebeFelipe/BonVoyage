@@ -32,7 +32,7 @@
 
 - [x] Header
 - [x] Home
-- [ ] Books
+- [x] Books
 - [ ] Pacotes
 - [ ] Serviços
 - [ ] Gallery
