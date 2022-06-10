@@ -34,8 +34,8 @@
 - [x] Home
 - [x] Books
 - [x] Pacotes
-- [ ] Serviços
-- [ ] Gallery
+- [x] Serviços
+- [x] Gallery
 - [ ] Review
 - [ ] Contato
 
