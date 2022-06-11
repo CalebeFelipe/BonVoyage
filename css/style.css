@@ -43,7 +43,6 @@ section {
   color: var(--orange);
   border-radius: .5rem;
   padding: .2rem 1rem;
-  /*display: inline-block; */
 }
 
 .heading span.space {
@@ -81,20 +80,16 @@ header {
   padding: 2rem 9%;
 }
 
-header .logo{
-  font-size: 2.5rem;
-  font-weight: bolder;
-  color: #fff;
-}
-
-header .logo span {
-  color: var(--orange);
+header .logo img {
+  width: 11rem;
+  height: 3rem;
+  object-fit: cover;
 }
 
 header .navbar a{
   color: #fff;
   font-size: 2rem;
-  margin:0 .8rem;
+  margin:0 1.2rem;
 }
 
 header .navbar a:hover {
@@ -286,7 +281,9 @@ header .search-bar-container label {
   background: rgba(0,0,0,.7);
   position: relative;
   top: 10rem;
+  z-index: 2;
 }
+
 .home .controls .vid-btn {
   height: 2rem;
   width: 2rem;
@@ -295,6 +292,10 @@ header .search-bar-container label {
   background: #fff;
   cursor: pointer;
   margin: 0 .5rem;
+}
+
+.home .controls .vid-btn:hover {
+  transform: scale(1.2);
 }
 
 .home .controls .vid-btn.active {
@@ -358,6 +359,10 @@ header .search-bar-container label {
   box-shadow: 0 1rem 2rem rgba(0,0,0,.1);
   border-radius: .5rem;
   overflow: hidden;
+}
+
+.packages .box-container .box:hover {
+  transform: scale(1.05);
 }
 
 .packages .box-container .box img {
@@ -506,6 +511,10 @@ header .search-bar-container label {
 
   header {
     padding: 2rem;
+  }
+
+  header .navbar a{
+    margin: 0 .9rem;
   }
 
   section {
