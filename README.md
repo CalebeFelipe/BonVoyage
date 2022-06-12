@@ -37,8 +37,8 @@
 - [x] Serviços
 - [x] Gallery
 - [x] Review
-- [ ] Contato
-
+- [x] Contato
+- [ ] Footer
 
 ---
 
