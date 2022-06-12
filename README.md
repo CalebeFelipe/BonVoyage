@@ -36,7 +36,7 @@
 - [x] Pacotes
 - [x] Serviços
 - [x] Gallery
-- [ ] Review
+- [x] Review
 - [ ] Contato
 
 
