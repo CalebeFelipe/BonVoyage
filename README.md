@@ -38,7 +38,7 @@
 - [x] Gallery
 - [x] Review
 - [x] Contato
-- [ ] Footer
+- [x] Footer
 
 ---
 
