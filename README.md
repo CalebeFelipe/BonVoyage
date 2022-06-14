@@ -9,7 +9,7 @@
 </h3>
 
 <h4 align="center">
-	🚧 Em construção 🚀 🚧
+	🚧 concluído 🚀 🚧
 </h4>
 
 
@@ -20,11 +20,16 @@
   <a href="#-tecnologias">Tecnologias</a> 
 </p>
 <br />
+<img align="center" src="images/layout-desktop1.jpeg" alt="animação da interação com página">
+<img align="center" src="images/layout-desktop2.jpeg" alt="animação da interação com página"><br>
+<br>
+
+> Confira a aplicação: https://bonvoyagebv.netlify.app/ <br>
 
 
 ## 💻 Sobre o projeto
 
-✈️  É um projeto que tem como objetivo simular um site de agência de viagem.
+✈️  É um projeto que tem como objetivo simular um site de agência de viagem. Foi um desafio muito bom pra reforçar alguns aspectos de HTML e CSS como: semântica HTML5, flexbox, form, responsividade, object-fit e propriedades que envolve as imagens. Além de implementar animações a partir do JS que agrega ainda mais as minhas habilidades.
 
 ---
 
@@ -32,11 +37,11 @@
 
 - [x] Header
 - [x] Home
-- [x] Books
+- [x] Hospedagens
 - [x] Pacotes
 - [x] Serviços
-- [x] Gallery
-- [x] Review
+- [x] Galeria
+- [x] Avaliações
 - [x] Contato
 - [x] Footer
 
@@ -76,6 +81,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 -   **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 -   **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**   
+-   **[Swiper](https://swiperjs.com/)**   
 
 #### **Utilitários**
 
