@@ -20,8 +20,7 @@
   <a href="#-tecnologias">Tecnologias</a> 
 </p>
 <br />
-<img align="center" src="images/layout-desktop1.jpeg" alt="animação da interação com página">
-<img align="center" src="images/layout-desktop2.jpeg" alt="animação da interação com página"><br>
+<img align="center" src="images/layout-desktop-full.png" alt="animação da interação com página">
 <br>
 
 > Confira a aplicação: https://bonvoyagebv.netlify.app/ <br>
