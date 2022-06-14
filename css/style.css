@@ -166,6 +166,7 @@ header .search-bar-container label {
   border-radius: .5rem;
   background: #fff;
   width: 50rem;
+  text-transform: none;
 }
 
 .login-form-container form h3{
@@ -207,6 +208,7 @@ header .search-bar-container label {
   padding: .5rem 0;
   font-size: 1.5rem;
   color: #666;
+  text-transform: none;
 }
 
 .login-form-container form p a {
@@ -250,6 +252,7 @@ header .search-bar-container label {
 
 .home .content{
   text-align: center;
+  width: 100%;
 }
 
 .home .content h3{
@@ -263,6 +266,11 @@ header .search-bar-container label {
   font-size: 2.5rem;
   color: #fff;
   padding: .5rem 0;
+  text-transform: none;
+}
+
+.home .content p span {
+  color: var(--orange);
 }
 
 .home .video-container video{
@@ -328,6 +336,11 @@ header .search-bar-container label {
 
 .book .row form .inputBox {
   padding: .5rem 0;
+}
+
+.book .row form .inputBox:nth-child(1) h3,
+.book .row form .inputBox:nth-child(2) h3{
+  text-transform: none;
 }
 
 .book .row form .inputBox input {
